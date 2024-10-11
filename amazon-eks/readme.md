@@ -1,11 +1,4 @@
-# Jenkins on Amazon Kubernetes 
 
-
-
-## Create a cluster
-
-Follow my Introduction to Amazon EKS for beginners guide, to create a cluster <br/>
-Video [here](https://youtu.be/QThadS3Soig)
 
 ## Setup our Cloud Storage 
 
